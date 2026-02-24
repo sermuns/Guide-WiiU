@@ -4,25 +4,25 @@ Ez az oldal végigvezet a Indexiine Wii U-dról eltávolításán.
 
 ## Mire van szükséged
 
-- The latest release of the [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/v1.5). (The `homebrew_launcher.v1.5.zip` file)
-- The latest release of the [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/latest). (The `payload.zip` file)
-- The [Indexiine Installer](https://github.com/GaryOderNichts/indexiine-installer/releases/latest). (The `indexiine-installer.zip` file)
-- The default [index.html file](/files/backup-index.html){download}. (You will get a file named `backup-index.html`)
+- A [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher/releases/tag/v1.5) legutolsó kiadása. (A `homebrew_launcher.v1.5.zip` fájl)
+- A [Homebrew Launcher Installer](https://github.com/wiiu-env/homebrew_launcher_installer/releases/latest) legutolsó kiadása. (A `payload.zip` fájl)
+- Az [Indexiine Installer](https://github.com/GaryOderNichts/indexiine-installer/releases/latest). (Az `indexiine-installer.zip` fájl)
+- Az alapértelmezett [index.html fájl](/files/backup-index.html){download}. (Egy `backup-index.html` navű fájlt kapsz.)
 
-## Setting Up The SD Card
+## Az SD kártya beállítása
 
-First, ensure your SD card is formatted in FAT32. You can do so by using [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm).
+Először is legyél biztos abban, hogy az SD kártyád FAT32-re formázott. Ezt meg tudod csinálni a [GUIFormat](http://ridgecrop.co.uk/index.htm?guiformat.htm)-tal.
 
-1. Extract the contents of the `homebrew_launcher.v1.5.zip` file to the root of your SD card.
-2. Extract the contents of the `indexiine-installer.zip` file to the root of your SD card.
-3. Extract the `payload.elf` file from the `payload.zip` file to the `wiiu` folder on your SD card.
-4. Copy the `backup-index.html` file to the `SD > wiiu > apps > indexiine-installer` folder on your SD card.
+1. Csomagold ki a tartalmát a `homebrew_launcher.v1.5.zip`-nek az SD kártyád gyökerébe.
+2. Csomagold ki a tartalmát a `indexiine-installer.zip`-nek az SD kártyád gyökerébe.
+3. Csomagold ki a `payload.elf` fájlt a `payload.zip` fájlból a `wiiu` mappába az SD kártyádon.
+4. Másold a `backup-index.html` fájlt az `SD > wiiu > apps > indexiine-installer` mappába az SD kártyádon.
 
-You can now eject, and insert your SD card into your console.
+Most már kiadhatod az SD kártyát és visszarakhatod a konzolodba.
 
 ## Lépések
 
-1. Launch the Homebrew Launcher by launching the internet browser and waiting for a few seconds.
+1. Indítsd el a Homebrew Launcher-t az internet browser indításával és várj néhány másodpercet.
 2. Indítsd el az Indexiine-Installer-t.
 3. Nyomj B gombot az Indexiine eltávolításához.
-4. Reboot your console, and check that your Wii U no longer automatically launches the Homebrew Launcher upon entering the Internet browser.
+4. Indítsd újra a konzolod és ellenőrizd, hogy a Wii U nem indítja automatikusan belépéskor a Homebrew Launcher-t ha megnyitod az Internet böngészőt.
