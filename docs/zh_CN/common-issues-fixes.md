@@ -33,10 +33,6 @@ The `import` folder should always be kept empty.
 
 如果你的 HDD 在工作了一段时间后在某些（或所有）游戏上抛锚了，这和上面说的是同个问题，并可以用同样的方法解决。
 
-## When extracting some of the files there are duplicates of certain ones called "info.json" & "manifest.install", what do I do with those?
-
-你自己看着整吧，无论是把它们留在原处、删除它们或者替换它们为新的什么的等等都由你自己摆布。 也就是说，这些东西它有没有都无伤大雅。
-
 ## 我的主机突然掉线了，而且我有一块 HDD 放在主机的顶上，怎么办啊？
 
 The internal antenna may have been influenced by the hard drive magnet.  
