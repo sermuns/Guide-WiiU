@@ -33,10 +33,6 @@ Możesz to naprawić za pomocą zewnętrznego zasilania dysku HDD lub za pomocą
 
 Jeśli twój HDD pracował przez jakiś czas poprawnie i przestał pracować w przypadku niektórych gier/wszystkich gier, jest to ten sam problem jak wyżej i można go rozwiązać tymi samymi metodami.
 
-## When extracting some of the files there are duplicates of certain ones called "info.json" & "manifest.install", what do I do with those?
-
-Nic specjalnego, możesz je tam zostawić, usunąć lub zastąpić nowymi. Pliki te nie są używane, zatem nie jest ważne czy istnieją czy też nie.
-
 ## Moja konsola nagle straciła łączność online, a ja mam na konsoli położony dysk HDD, co powinienem zrobić?
 
 The internal antenna may have been influenced by the hard drive magnet.  
