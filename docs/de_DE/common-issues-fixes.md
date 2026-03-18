@@ -33,10 +33,6 @@ Du kannst dies beheben, indem du entweder eine Festplatte mit eigener Stromverso
 
 Wenn deine Festplatte einige Zeit lang funktioniert hat und dann aufhört für einige Spiele/alle Spiele zu arbeiten, handelt sich um das gleiche Problem und kann mit denselben Methoden behoben werden.
 
-## Beim Extrahieren von manchen Dateien sind Duplikate von „info.json“ & „manifest.install“ enthalten, was mache ich mit diesen?
-
-Nichts Besonderes. Du kannst sie entweder dort lassen, sie löschen oder durch neue ersetzen. Diese Dateien werden nicht im Prozess verwendet und werden daher nicht dadurch beeinflusst, dass sie dort sind oder nicht.
-
 ## Meine Konsole hat plötzlich die Online-Verbindung verloren und ich habe eine Festplatte auf der Konsole liegen. Was soll ich tun?
 
 Die interne Antenne kann durch den Festplattenmagneten beeinflusst worden sein.  
