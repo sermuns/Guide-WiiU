@@ -33,10 +33,6 @@ Ezt úgy tudod orvosolni, hogy vagy egy külső tápellátású HDD-t használsz
 
 Ha a HDD egy ideig működött, majd egyes játékoknál/az összes játéknál leállt, ez ugyanaz a probléma, és ugyanazokkal a módszerekkel javítható.
 
-## Amikor néhány fájlt kicsomagolok, néhány fájlnak van duplikáltja, amit "info.json" & "manifest.install"-nak hívnak, mit csináljak ezekkel?
-
-Semmi különöset, hagy őket ott, töröld őket, vagy is felül az újakkal. Ezek a fájlok nem használtak a folyamatban, így nem számít, hogy ott vannak-e vagy sem.
-
 ## A konzolom elvesztette az online kapcsolatot és van egy HDD-m a tetején a konzolnak, mit tehetek?
 
 A belső antennát lehet befolyásolta a merevelmez mágnese.  
