@@ -33,10 +33,6 @@ Puoi risolvere questo usando un HDD alimentato o un cavo-Y per connettere l'HDD 
 
 Se l'HDD ha smesso di funzionare per alcuni/tutti i giochi, è lo stesso problema e può essere risolto con gli stessi metodi.
 
-## When extracting some of the files there are duplicates of certain ones called "info.json" & "manifest.install", what do I do with those?
-
-Niente di speciale, puoi lasciarli lì, eliminarli o sostituirli con dei nuovi. Questi file non vengono utilizzati nel processo, quindi cancellandoli o togliendoli dalla directory non cambierà nulla.
-
 ## La mia console all'improvviso ha perso la connettività online e ho un HDD sulla parte superiore della console, che faccio?
 
 The internal antenna may have been influenced by the hard drive magnet.  
