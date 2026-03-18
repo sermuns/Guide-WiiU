@@ -33,10 +33,6 @@ Du kan løse dette ved å enten bruke en ekstern harddisk med egen strømkilde, 
 
 Dersom den eksterne harddisken fungerte i lengre tid uten strømadapter eller Y-kabel, og plutselig sluttet å virke for noen, eller alle spill, så er det det samme problemet og kan fikses ved å bruke en Y-kabel.
 
-## When extracting some of the files there are duplicates of certain ones called "info.json" & "manifest.install", what do I do with those?
-
-Du kan la dem ligge, slette dem eller kopiere over dem med de nye filene. Disse filene brukes ikke i prosessen, derfor er det ingen forskjell på om de er der eller ikke.
-
 ## Wii U konsollen min mistet plutselig internett, og jeg har en ekstern harddisk oppå konsollen min. Hva må jeg gjøre?
 
 The internal antenna may have been influenced by the hard drive magnet.  
